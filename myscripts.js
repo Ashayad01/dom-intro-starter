@@ -1,3 +1,4 @@
+console.log(document.getElementById("firstPara"));
 // Selecting by ID
 document.getElementById("firstPara").innerHTML += "<span class ='tan'>This is new tan text.</span>";
 
